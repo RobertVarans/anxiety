@@ -96,7 +96,7 @@ bb({eyes:"look"});
 
 [O ne, pažvelg į tą siaubingą naują istoriją!](#act1d_news)
 
-[O ne, aš tas įrašas iš tikrųjų yra apie *mus?*](#act1d_subtweet)
+[O ne, ar tas įrašas iš tikrųjų yra apie *mus?*](#act1d_subtweet)
 
 [Ei, video apie pieną geriančią katę.](#act1d_milk)
 
