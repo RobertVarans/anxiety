@@ -77,34 +77,34 @@ n: TAVO UŽDUOTIS APSAUGOTI ŽMOGŲ NUO *GRĖSMĖS*
 
 `bb({eyes:"look", mouth:"small_lock", body:"fear"})`
 
-b: Gasp! You're scrolling your life away on Twitter! Again!
+b: Ah! Tu tikrini savo gyvenimą Twitter! Vėl!
 
 ```
 bb({eyes:"normal", mouth:"normal", body:"normal"});
 hong({eyes:"annoyed"});
 ```
 
-h: Yeah I wonder why I don't just sit and listen to my thoughts more often.
+h: Taip, svarstau kodėl neturėčiau tiesiog atsisėsti ir klausytis savo minčių dažniau.
 
 `hong({eyes:"neutral"});`
 
-n: QUICK, WARN THEM ABOUT A *DANGER!*
+n: GREIČIAU, PRANEŠK APIE *GRĖSMĘ!*
 
 ```
 bb({eyes:"look"});
 ```
 
-[Oh no, look at that horrible news story!](#act1d_news)
+[O ne, pažvelg į tą siaubingą naują istoriją!](#act1d_news)
 
-[Oh no, is that tweet secretly about *us?*](#act1d_subtweet)
+[O ne, aš tas įrašas iš tikrųjų yra apie *mus?*](#act1d_subtweet)
 
-[Hey, a GIF of a cat drinking milk](#act1d_milk)
+[Ei, video apie pieną geriančią katę.](#act1d_milk)
 
 # act1d_milk
 
 `hong({mouth:"smile", eyes:"surprise"});`
 
-h: Heh ya that's cute, I--
+h: Hm, taip, tai miela, aš--
 
 ```
 hong({mouth:"shock", eyes:"shock"});
@@ -112,7 +112,7 @@ bb({body:"scream"});
 Game.OVERRIDE_TEXT_SPEED = 1.8;
 ```
 
-b: CATS CAN'T DIGEST MILK AND WE'RE TERRIBLE PEOPLE FOR ENJOYING ANIMAL ABUSE
+b: KATĖS NEGALI TO VIRŠKINTI IR MES ESAME SIAUBINGI DŽIAUGDAMIESI MATYDAMI GYVŪNŲ PIKTNAUDŽIAVIMĄ
 
 (...200)
 
