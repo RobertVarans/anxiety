@@ -14,7 +14,7 @@
 
 `clearText()`
 
-n3: So before we start, how would *you* like to read?
+n3: Pieš pradedant žaidimą, kaip tu norėtum skaityti? So before we start, how would *you* like to read?
 
 `publish("show_options_bottom")`
 
